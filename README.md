@@ -1,0 +1,2 @@
+# shutdownpwr
+poweronoff
